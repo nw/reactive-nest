@@ -1,0 +1,18 @@
+{
+  "name": "reactive-nest",
+  "repo": "nw/reactive-nest",
+  "description": "property nesting for component/reactive",
+  "version": "0.0.1",
+  "keywords": ["reactive", "template", "engine", "binding", "bindings"],
+  "development": {
+    "component/model": "*",
+    "component/reactive": "*",
+    "component/assert": "*",
+    "component/domify": "*",
+  },
+  "scripts": [
+    "lib/index.js"
+  ],
+  "main": "lib/index.js",
+  "license": "MIT"
+}
