@@ -6,9 +6,10 @@
   "keywords": ["reactive", "template", "engine", "binding", "bindings"],
   "development": {
     "component/model": "*",
+    "nw/model-nest": "*",
     "component/reactive": "*",
     "component/assert": "*",
-    "component/domify": "*",
+    "component/domify": "*"
   },
   "scripts": [
     "lib/index.js"
